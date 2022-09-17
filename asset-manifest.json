@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://t4p4n.github.io/csb-8yo5g6/static/css/main.c4740fd0.chunk.css",
+    "main.js": "https://t4p4n.github.io/csb-8yo5g6/static/js/main.feedd711.chunk.js",
+    "main.js.map": "https://t4p4n.github.io/csb-8yo5g6/static/js/main.feedd711.chunk.js.map",
+    "runtime-main.js": "https://t4p4n.github.io/csb-8yo5g6/static/js/runtime-main.55612b47.js",
+    "runtime-main.js.map": "https://t4p4n.github.io/csb-8yo5g6/static/js/runtime-main.55612b47.js.map",
+    "static/js/2.4f2d7ce1.chunk.js": "https://t4p4n.github.io/csb-8yo5g6/static/js/2.4f2d7ce1.chunk.js",
+    "static/js/2.4f2d7ce1.chunk.js.map": "https://t4p4n.github.io/csb-8yo5g6/static/js/2.4f2d7ce1.chunk.js.map",
+    "index.html": "https://t4p4n.github.io/csb-8yo5g6/index.html",
+    "static/css/main.c4740fd0.chunk.css.map": "https://t4p4n.github.io/csb-8yo5g6/static/css/main.c4740fd0.chunk.css.map",
+    "static/js/2.4f2d7ce1.chunk.js.LICENSE.txt": "https://t4p4n.github.io/csb-8yo5g6/static/js/2.4f2d7ce1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55612b47.js",
+    "static/js/2.4f2d7ce1.chunk.js",
+    "static/css/main.c4740fd0.chunk.css",
+    "static/js/main.feedd711.chunk.js"
+  ]
+}
